@@ -1,3 +1,7 @@
+# Path to Tech Lead
+
+![English Version](./README_EN.md)
+
 # 迈向 Tech Lead 之路
 
 2019 年 1 月 19 日 ~ 2019 年 1 月 20 日，蹭了一个公司的 Tech Lead 培训—— Coach 来自 ThoughtWorks 中国区的两个资深 Tech Lead 和 ThoughtWorks 澳大利亚联邦区的资深 Tech Lead。两天的培训下来，学习到了不少的东西。内容只进不出，过些日子怕是会忘记了。于是，便有了这篇文章，一来记录下自己学习的东西；二来，结合自己的 “经验” 做一些总结。
