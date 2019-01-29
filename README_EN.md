@@ -13,34 +13,34 @@ The article is relatively long, long, long and long, and it divided into six par
 
 ## Tech Lead 
 
-Why do we need Tech Lead?
+### Why do we need Tech Lead?
 
-Perhaps, you noticed: We are talking about Lead, not Leader. Because when we say Leader, it is often referred to as the leader—a person who has a formal leadership position and shoulders the responsibility of leading the team and organizing the organization. And when we say Lead, we are talking about someone who leads us forward. This person can be a leader or others person. Therefore, Tech Lead is a role, not a real position. The significance of this role is to others people forward. The definition of the two is shown below:
+Perhaps, you noticed: We are talking about Lead, not Leader. Because when we say Leader, it is often referred to as the leader—a person who has a formal leadership position and shoulders the responsibility of leading the team and organizing the organization. And when we say Lead, we are talking about someone who leads us forward. This person can be a leader or others person. Therefore, **Tech Lead is a role, not a real position**. The significance of this role is to others people forward. The definition of the two is shown in below:
 
 ![Leader vs Boss](https://phodal.github.io/techlead/images/leader-vs-boss.jpg)
 
 Then think about it, who are you working with in your team? When you are doing related technical work, who are you more willing to listen to, is your leader, or?
 
-As a developers, we hope that someone will work with us who is better than us. We can learn something useful from him/her. As a technician, we serve people who are better than themselves. It's also a function, we have to do it for a day, and he/she may only need one hour - efficiency is high and quality is good. Such a person is equivalent to Tech Lead in the project, he/she is not a true leader. But technically, we all listen to him/her. With his/her help, we can improve our technology and build better applications.
+As a developers, we hope that someone will work with us who is better than us. We can learn something useful from him/her. As a technician, we serve people who are better than themselves. In a same feature, we have to implement it for a day, and he/she may only need one hour - efficiency is higher and quality is better. Such a person is equivalent to Tech Lead in the project, he/she is not a true leader. But technically, we listen to him/her. With his/her help, we can improve our skills and build better applications.
 
 If you are in a hierarchy of pyramidal relationships, recall that who is your manager often praises people with good skills? In a sense, he/she is equivalent to the project's Tech Lead. Your manager will ask him/her about some technical issues, and relevant conclusions will often be used on your project.
 
-For Tech Lead, **important is not management, but lead**. So the question is, what is Tech Lead?
+For Tech Lead, **the most important thing is lead not management**. Then the question is, what is Tech Lead?
 
 ### What is Tech Lead?
 
-As a result, those who claim to be “Tech Leads” are often not necessarily true technical leaders. They undertake the development of the project, just as a project or the head of the team to manage the project; make some technical decisions on the project - what framework to use, what services to use, interface docking, no coding jobs. They are equivalent to the Tech Manager of the project.
+As a result, those who claim to be “Tech Lead” are often not necessarily true technical leader. They undertake the development of the project, just as a project manager, or the head of the team to manage this project; make some technical decisions on the project - what frameworks to use, what services to use, interface docking, **no coding jobs**. They are equivalent to the Tech Manager of the project.
 
-To this end, we have to mention the role of manager. There are four types of managers:
+Now, we have to mention the role of manager. There are four types of managers:
 
- - Expert: A certain area of technical ability is very strong, is an expert in a certain field
- - Manager: Good at publishing tasks, setting goals, and ensuring goals are achieved
- - Coach: Ability to develop others, teams
- - Leader: Know how to achieve goals in the right way, motivate people
+ - Expert: a certain area of technical ability is very strong, is an expert in a certain field
+ - Manager: good at publishing tasks, setting goals, and ensuring goals are achieved
+ - Coach: ability to develop others, teams
+ - Leader: know how to achieve goals in the right way, motivate people
 
-Tech Lead is constantly changing between these four roles. First of all, Tech Lead is a technical expert that solves complex technical problems on projects. It is also a Coach and needs help to grow members of the project. Still a leader, you can lead by example and tell others/her how to do it. When needed, it will become the Manager on the project to complete the team's goals.
+Tech Lead is constantly changing between these four roles. First, Tech Lead is a technical expert that solves complex technical problems on projects. Then, can be a  Coach who needs help to grow members of the project. Also be a leader, lead by example and tell others/her how to do it. When needed, it will become the Manager on the project to complete the team's goals.
 
-Limited by the organizational structure of different companies, Tech Lead often includes multiple roles - both project managers and technical leaders, and... At ThoughtWorks, Tech Lead can be a purely technical position, while others act as project managers. If you only look at the role of Lead with Tech, then it is:
+Limited by the organizational structure of different companies, Tech Lead often includes multiple roles - both project managers and technical leaders, and... At ThoughtWorks, Tech Lead can be a purely technical job, while others act as project managers. If you only look at the role of Lead with Tech, then it is:
 
  - **Architect **, **Technologist **. Compared with the project manager and the technical manager, he/she not only focuses on the technical practice and progress of the project, but also has to solve the most complicated technical problems.
  - **Technical role model**. Tech Lead is more like a spiritual “leader” who needs to let other people in the project see the way forward.
@@ -48,52 +48,52 @@ Limited by the organizational structure of different companies, Tech Lead often 
 
 In addition to technical work, he/she also needs to understand the business in order to develop software that meets business needs. There is also a need to manage risk (mainly technology-related risks) in order to respond to changes.
 
-![Technical Lead Model 1] (https://phodal.github.io/techlead/images/tech-lead-butterfly.png)
+![Technical Lead Model] (https://phodal.github.io/techlead/images/tech-lead-butterfly.png)
 
-This is the relevant domain model of Tech Lead.
+This is the relevant  model of Tech Lead.
 
 ### How to become a Tech Lead?
 
-First, look at luck... The pits of each organization are limited - a radish and a pit. When I first started Tech Lead, I was in the days of graduation. The TL and PM on the project have successively left the company, and the rest of the people, I am probably the most familiar with the business knowledge and technical knowledge related to the project. I have inexplicably assumed the relevant role. However, this is not important. What is important is that this pit suddenly came out to you.
+First, **by luck**... The pits of each organization are limited - one pit cab only one radish. When I first time a become a Tech Lead, I was work there for about one year. The TL and PM on the project have successively left the company, them join a startup company. In the rest of the people, I am probably the most familiar with the business knowledge and technical knowledge related to the project. I have inexplicably assumed the relevant role. However, this is not important. What is important is that this pit suddenly came out to you. I'm  do a poor performance, I'm young need to know what to do.
 
-Second, show your temperament and technical expertise. No one knows what you are good at, except yourself. In this way, you are likely to become the 2nd Tier on the project (second echelon, referred to as spare tire). Once people think you are a good seed, then becoming a Tech Lead will increase from 0.01% to 1%.
+Second, show your temperament and technical expertise. No one knows what you are good at, except yourself. In this way, you are likely to become the 2nd Tier on the project (referred to as backup). Once people (leader) think you are a seeded player, then the chance to becom a Tech Lead will increase from 0.01% to 1%.
 
-Finally, still look at luck... If you are in your organization, there is always a person who is better than you, and this person has been with you in a project. God knows, when you are the second child, when can you turn over. You are still young, you have passed each other.
+Finally, **still by luck**... If you are in your organization, there is always a person who is better than you, and this person has been with you in a project. God knows, when you are the second child, when can you turn over. You are still young,  can long live longer than others. :)
 
-However, these are not important - don't rely on the day to eat, or rely on your mouth to eat. What we have to do is always ready to improve the technology and master the Tech Lead skills.
+However, these are not important. What we have to do is always be ready to  Tech Lead. So, Improve the skills and master the Tech Lead skills.
 
 ## Tech Lead What capabilities are needed?
 
 In my option, a Tech Lead should have those skills:
 
- - First, you will blow NB.
- - Second, know how to draw a cake.
+ - First, you are fast talk.
+ - Second, know how to draw a dream.
  - Then, be proficient in PPT.
- - Finally, you will also be proficient in markdown programming.
+ - Finally, you will also be proficient in markdown programming. (PS: it's say me - Phodal)
 
-Oh, it doesn't seem right, the above are all swearing.
+Oh, it doesn't seem right, the above are all jokes.
 
 ### Tech Lead Responsibility Boundary
 
-The chart below shows the scope of Tech Lead's responsibility by Patrick Kua (formerly ThoughtWorks Principal Technical Consultant in the United Kingdom of Great Britain and Northern Ireland). In other words, it is the work that Tech Lead has to do.
+The chart below shows the scope of Tech Lead's responsibility by Patrick Kua (formerly ThoughtWorks Principal Technical Consultant in UK). In other words, it is the work that Tech Lead has to do.
 
 ![Tech Lead Circles](https://phodal.github.io/techlead/images/tech-lead-circles.png)
 
 The content on the map is mainly divided into three parts:
 
- - Developer. As a developer, we should master programming-related skills: ** object-oriented programming, functional programming, pair programming skills, skilled use of various tools, iterative and incremental design, design patterns, refactoring, automated testing , class design**.
- - Architect. As architects in the project, we have to consider: ** cross-functional requirements, evolutionary architecture, buying or making decisions, system design, program evaluation, technology risk management, technology vision and cohesion, focusing on the entire life cycle, Extensive toolset, infrastructure, customer guidance**.
- - Leadership. As a technical lead, we need to improve these soft skills: ** feedback, communication, coaching, motivation, relationship building, commissioning, impact, risk management, conflict management, team management**.
+ - Developer. As a developer, we should master programming-related skills: **object-oriented programming, functional programming, pair programming skills, skilled use of various tools, iterative and incremental design, design patterns, refactoring, automated testing , class design**.
+ - Architect. As architects in the project, we have to consider: **cross-functional requirements, evolutionary architecture, buying or making decisions, system design, program evaluation, technology risk management, technology vision and cohesion, focusing on the entire life cycle, Extensive toolset, infrastructure, customer guidance**.
+ - Leadership. As a technical lead, we need to improve these soft skills: **feedback, communication, coaching, motivation, relationship building, commissioning, impact, risk management, conflict management, team management**.
 
 Ok, I admit that there are too many things to learn, especially for programmers whose goal is Tech Lead. In order to become a good developer, we must grow into an architect, and finally we must improve our leadership. First, we can be the best technical person of the technology, and then we can become Tech Lead. At least leadership, before the technical preparation is sufficient, take the time to pay attention to practice.
 
 ### Tech Lead Ability Model
 
-Corresponding to this, we also have our own (ThoughtWorks) Tead Lead self-test model. As can be seen from the figure below, it is based on the above figure:
+Corresponding to this, we also have our own (ThoughtWorks) Tead Lead assessment model. As can be seen from the figure below, it is based on the above figure:
 
 ![Tech Lead Assessment](https://phodal.github.io/techlead/images/tla.png)
 
-(PS: Welcome to develop your Tech Lead model based on [https://phodal.github.io/tla/](https://phodal.github.io/tla/). Self-test tools use: 1. From 1 ~ 5 Score your relevant abilities and connect the corresponding points one by one. 2. Draw a point on the score you want to improve, and then draw a circle 2.)
+(PS: Welcome to develop your Tech Lead model based on [https://phodal.github.io/tla/](https://phodal.github.io/tla/). Self-test tools use: 1. From 1 ~ 5 Score your relevant abilities and connect the corresponding points one by one. 2. Draw a point on the score you want to improve, and then draw a circle)
 
 In contrast, our Tech Lead model is relatively simple – there are fewer things:
 
@@ -115,9 +115,9 @@ Therefore, I will follow some of the things that Tech Lead has to do, and then f
 
 It should be noted that only the part that the author thinks is important is listed here (PS: because it is the first version, it may also lack some points). For some less important responsibilities, you can see it in the Tech Lead model above.
 
-### Technical preparation period (run-in period)
+### Technical preparation period
 
-When ThoughtWorks opens a project, there are two periods: Inception, iteration 0. They all need a senior programmer and architect to participate. His/her main responsibility is to design an architecture that meets the needs of the project**. The so-called project needs are not necessarily the most suitable technical solutions for this project. It may be affected by various factors such as stakeholders and organizational structure, resulting in the most suitable solution not being adopted. Like the biggest leader, I like the A program, not the best B solution.
+When ThoughtWorks start a project, there are two periods: Inception, iteration 0. They all need a senior programmer and architect to participate. His/her main responsibility is to design an architecture that meets the needs of the project. The so-called project needs, it's are not necessarily the most suitable technical solutions for this project. It may be affected by various factors such as stakeholders and organizational structure, resulting in the most suitable solution not being adopted. Like the biggest leader,  like the A solution, not the best B solution.
 
 **Inception**, mainly used to verify the feasibility of technology, business, operations, design, and products. The process requires a Tech Lead as an architect to design a software architecture that meets the needs of the project. According to my understanding, the related process is probably as follows:
 
@@ -125,11 +125,11 @@ When ThoughtWorks opens a project, there are two periods: Inception, iteration 0
 
 In the process, we need to communicate with the stakeholders involved in the project, discuss with the developers... and finally compromise a framework that can barely meet the needs of all parties. We will also sort out the technical risks associated with the project from relevant discussions.
 
-**Interation 0**. Iteration 0 is the official start of the developer, the technical work we have to do. It contains the following:
+**Interation 0**. Iteration 0 is the official start of the other developers, the technical work we have to do. It contains the following:
 
- - PoC architecture verification. Verify that the architecture of the system is truly reliable and make some minor adjustments.
+ - PoC architecture verification. Verify that the architecture of the system is truly reliable and make some minor adjustments
  - Build CI/CD
- - Write a model demo code. Write sample code in conjunction with business functions in a way that conforms to the system architecture style and pattern, as a reference for others.
+ - Write some pattern code. Write sample code in business functions in a way that conforms to the system architecture style and pattern, princinples, as a reference for others.
 
 In addition, during the technical preparation period, we also need to:
 
@@ -137,7 +137,7 @@ In addition, during the technical preparation period, we also need to:
  - Design and implement test strategies
  - Deployment design and practice
 
-This is a rather long period.
+This is a rather long period, because it's hard.
 
 In addition, one of the most important things we have to do at this time is: ** Isolate the direct demand dialogue between other/her technicians and business people**.
 
@@ -162,7 +162,7 @@ In the process, the new version of the application is continuously released, thu
 At this stage, as a Tech Lead, we have to focus on two main parts:
 
  - Architecture evolution. The system has been biased towards stability, but we can explore new ways to help us solve the current problems.
- - Cultivation and growth of personnel. Most of the team members are already in the “boring” stage during this period and need some new elements to help him/her grow.
+ - Cultivation and growth of memberl. Most of the team members are already in the “boring” stage during this period and need some new elements to help him/her grow.
 
 This does not mean that several other aspects of her/her are stable. There will still be some changes, but the scope of these changes is not that great. For example, if some key stakeholders are replaced, then it will take some time to re-sprue.
 
@@ -184,13 +184,13 @@ Similarly, different work will be performed during different project periods - s
 
 Programming is the basic skill of Tech Lead. No matter how busy we are, we always need to go deep into the code base to understand the problems in the code.
 
-#### Your own coding time: >30%.
+#### Your coding time  should > 30%
 
 As a Tech Lead, if you want to improve the code quality of the project, ensure the maintainability of the project, and solve the complex problems in the project, then you must join the development of the project. A long time away from the front line, there is a lack of code-related context, and it is difficult to become a Tech Lead and become a Tech blabla. Promotion is a good thing, but programming is still important.
 
 According to our training conclusions, the time to write the code should be >30%. I don't know the source of this value, but it's almost a 1/3 value, so you know.
 
-#### Establishing specifications, principles, and models
+#### Establishing specifications, principles, and patterns
 
 Which language is the best? 2 spaces or 4 spaces? They have too much controversy. As a Tech Lead, we need to ensure the consistency of the code base in the process of running in, and reduce the diversification in this aspect as much as possible. Of course, there is a certain amount of diversification, such as allowing Vim/Emacs to exist. The debate between the editor and the IDE is a useful thing.
 
@@ -220,13 +220,13 @@ People, is an important factor in a project.
 
 At different times of the project, they have different feelings for different people. This is the flow of heart:
 
-![心流](https://phodal.github.io/techlead/images/flow.png)
+![Flow](https://phodal.github.io/techlead/images/flow.png)
 
 At the beginning of the project, for most people, it is a level of high level of challenge and general level of technology (unfamiliar with the project). In the middle and late stages of the project, for most people, the project is in a state of boring or insensible. In the anxiety period, guide new people; in the boring period, create some technical challenges...
 
 As a Tech Lead, you need to help other people grow up at different times. Consider different dimensions of Interests, Skills, Strengths, Goals, etc., to understand the different stages of each person and help them grow.
 
-![甜甜点](https://phodal.github.io/techlead/images/sweet-spot.png)
+![Sweet spot](https://phodal.github.io/techlead/images/sweet-spot.png)
 
 In a sense, we need to understand the current position of each team member and then help him/grow. At the start of the project, you can also brainstorm together to understand each of the four appeals of everyone on this project.
 
@@ -244,7 +244,7 @@ As a Geek, we always think about trying to constantly improve our technology and
 
 To this end, we need to introduce relevant knowledge sharing cultural technology writing, reading sharing, pair programming, code review, technical review meetings and so on.
 
-#### earn one's trust
+#### earn  trust
 
 One key to Tech Lead's assurance of technology implementation is that everyone trusts you. Once everyone doesn't trust you, or if you don't trust yourself, then this project will have problems. It requires us to build a sense of trust step by step.
 
@@ -258,15 +258,15 @@ Different projects have various processes and have their own time. Here you need
 
 which is:
 
- - Formation period. (Forming) project team enlightenment stage.
- - Agitation period. (Storming) forms various concepts, fierce competition and collision.
- - Specification period. (Norming) rules, values, behaviors, methods, tools have been established.
- - Execution period. (Performing) Interpersonal structure becomes a tool for performing mission activities. Team roles are more flexible and functional, and team energy is integrated.
- - Rest period. (Adjourning) The mission is completed and the team is disbanded.
+ - Formation period. Project team enlightenment stage.
+ - Storming period. Forms various concepts, fierce competition and collision.
+ - Norming period.  Rules, values, behaviors, methods, tools have been established.
+ - Performing period. Interpersonal structure becomes a tool for performing mission activities. Team roles are more flexible and functional, and team energy is integrated.
+ - Adjourning period. The mission is completed and the team is disbanded.
 
 It helps us to have a clear understanding of the team and then take action to help team members clear their goals.
 
-For different people, we also need the ** situational leadership model**:
+For different people, we also need the **Scenario Leadership Model**:
 
 ![Scenario Leadership Model] (https://phodal.github.io/techlead/images/situational-leadership-model.png)
 
@@ -274,20 +274,20 @@ Corresponding to different people, you need different ways to lead them to compl
 
  - Directing, informing, giving detailed guidance to the roles and goals of the members, and closely monitoring the effectiveness of the work of the employees, in order to give regular feedback on the work results.
  - Coaching, explaining the work content and working methods to team members, while continuing to guide members on how to complete the task.
- - Participation, working with team members to solve problems, develop solutions, and provide encouragement and support;
+ - Supporting, working with team members to solve problems, develop solutions, and provide encouragement and support;
  - Delegating, providing appropriate resources, fully convinced the members' ability, and assigning the task to the employee's full responsibility and independent operation.
 
 In fact, this is a summary of some methods, which are used in our daily lives.
 
 Then, we still need to master and how to effectively express:
 
- - Ding: Determining the direction, clarifying the purpose and importance of communication, why is there this communication conversation?
- - Reason: rationalize the situation, clarify the current facts, what problems, doubts, exchange of information
- - Think: Think about the solution, what solutions are there for the current problem, what kind of support is needed, what resources are needed, etc.
- - Ming: Ming practices, develop an action plan, how to follow up, how to respond to changes
- - Do: Make a summary, summarize the main points of this communication, give confidence / encouragement
+ - Direction: Determining the direction, clarifying the purpose and importance of communication, why is there this communication conversation?
+ - Situation: rationalize the situation, clarify the current facts, what problems, doubts, exchange of information
+ - Solution: Think about the solution, what solutions are there for the current problem, what kind of support is needed, what resources are needed, etc.
+ - Plan: develop an action plan, how to follow up, how to respond to changes
+ - Action: Make a summary, summarize the main points of this communication, give confidence / encouragement
 
-The methodology is too much, too much~.
+The methodology is very much~.
 
 ## Improve Tech Lead Ability
 
@@ -297,7 +297,7 @@ Now that we have set the three dimensions of Tech Lead, the corresponding improv
 
 For Developer: object-oriented programming, functional programming, pair programming skills, proficiency in a variety of tools, iterative and incremental design, design patterns, refactoring, automated testing, class design..., one can not be less.
 
-Therefore, 10,000 words are omitted here.
+Therefore, 10,000 words are omitted here. We will talk in future, in future, in future.
 
 ### Architecture
 
@@ -329,13 +329,13 @@ Extremely high availability | 5 9 | 99.999% | 5 minutes
 
 Higher availability means higher input costs to reduce server downtime.
 
-**Recommended list**
+**Recommended books**:
 
- - "The Way to Cleanliness"
+ - Clean Architecture
 
 ### Leadership
 
-Obviously, for a Geek, soft skills are the biggest test.
+Obviously, for a Geek, soft skills are the biggest exam.
 
 #### Incentives
 
@@ -409,7 +409,7 @@ The corresponding following are the respective effects:
 
 Related information, the article "The cone of uncertainty" tells you why the difficulty of the project has a gap of 16 times: https://zhuanlan.zhihu.com/p/32033094
 
-#### 干人分析分析
+#### Stakeholder Analyses
 
 > Project stakeholders include project parties whose actions can influence the planning and implementation of the project, as well as individuals and organizations whose interests are affected (beneficiary or damaged) by the project; they can also be referred to as project stakeholders.
 
@@ -425,14 +425,14 @@ In team conversations, you need to pay attention to some conversation-related st
 
 ![Impact] (https://phodal.github.io/techlead/images/influencing-approaches.png)
 
-You can try to build the relevant influences by using the six principles of ** influence introduced in the book "Influence: Science and Practice", namely:
+You can try to build the relevant influences by using the six principles of influence introduced in the book "Influence: Science and Practice", namely:
 
-1. Mutual benefit.
-2. Commitment is consistent.
-3. Social identity.
-4. Good feelings.
+1. Reciprocation
+2. Commitment and consistency
+3. Social proof
+4. Liking.
 5. Authority.
-6. Scarce.
+6. Scarcity.
 
 Everyone has a part that they are good at, starting from the part they are good at.
 
@@ -451,13 +451,13 @@ These are just some methodologies, first go to ** prove your own value**, and th
 
 Next, we'll introduce some tools to help us better work on Tech Lead. It is worth noting that they all need constant maintenance.
 
-### Path to Production: On-line visualization
+### Path to Production: visualization
 
 Path to Production is a visual way to show how an application is online. As shown below:
 
 ![Path to Production](https://phodal.github.io/techlead/images/path-to-production.png)
 
-(PS: related visualization tools are available at: <https://phodal.github.io/path/>)
+(PS: related visualization tools are available at:  [https://phodal.github.io/path/](https://phodal.github.io/path/) )
 
 In the process, we focus on the Process, People, Tooling, Artifacts four parts to understand what processes, people, tools and products are needed for a project.
 
@@ -483,7 +483,7 @@ The ADR architecture decision record is a short text file similar to the Alexand
 
 ![ADR](https://phodal.github.io/techlead/images/adr.png)
 
-(PS: related tools are adr-tools and [https://github.com/phodal/adr] (https://github.com/phodal/adr) for Chinese)
+(PS: related tools are adr-tools and [https://github.com/phodal/adr](https://github.com/phodal/adr) for Chinese and Windows)
 
 ** It needs to be continuously updated**.
 
