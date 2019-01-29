@@ -460,7 +460,7 @@ Path to Production 是以可视化的方式，来展示应用是如何上线的�
 
 ![Path to Production](https://phodal.github.io/techlead/images/path-to-production.png)
 
-（PS：相关的可视化工具见：https://phodal.github.io/path/）
+（PS：相关的可视化工具见：<https://phodal.github.io/path/>）
 
 在过程中，我们关注于 Process、People、Tooling、Artifacts 四个部分，来了解一个项目需要哪些流程、人、工具和产物。
 
