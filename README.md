@@ -1,6 +1,6 @@
 # Path to Tech Lead
 
-![English Version](./README_EN.md)
+[English Version](./README_EN.md)
 
 # 迈向 Tech Lead 之路
 
