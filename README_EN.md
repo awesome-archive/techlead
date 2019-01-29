@@ -1,6 +1,5 @@
 # Path to Tech Lead
 
-
 ToC:
 
 *   [Tech Lead](#tech-lead)
@@ -50,9 +49,11 @@ ToC:
     *   [Relevant information](#relevant-information)
 
 
-From January 19, 2019 to January 20, 2019, I attend my company's (ThoughtWorks) training which is about Tech Lead. Thanks for three coachs' working, two senior Tech Leads from ThoughtWorks China and another' senior Tech Lead from ThoughtWorks Australia. After two days of training, I learned a lot. The content can only be entered, and some days will be forgotten. So, First, I wrote this article, to record what I have learned; second, to make some summaries based on my own "experience."
+From January 19, 2019 to January 20, 2019, I attend my company's (ThoughtWorks) training which is about Tech Lead. Thanks for three coachs' working, two senior Tech Leads from ThoughtWorks China and another' senior Tech Lead from ThoughtWorks Australia. After two days of training, I learned a lot. The content can only be entered, and some days will be forgotten.
 
-The article is relatively long, long, long and long, and it divided into six parts (PS: Fortunately, Phodit editor (phodit.com), support for title folding :). The agenda:
+So, First, I wrote this article, to record what I have learned; second, to make some summaries based on my own "experience."
+
+The article is relatively long, long, long and long, and it divided into six parts (PS: Fortunately, Phodit editor [https://github.com/phodal/phodit](https://github.com/phodal/phodit), support for title folding :). The agenda:
 
  - Define Tech Lead 
  - What capabilities does Tech Lead need?

@@ -63,8 +63,6 @@
  - 提升 Tech Lead 能力
  - Tech Lead 工具箱
 
-考虑到文章的长度，先上几张图：
-
 ## Tech Lead
 
 ### 为什么我们需要 Tech Lead？
