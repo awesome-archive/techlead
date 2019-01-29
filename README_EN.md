@@ -1,5 +1,55 @@
 # Path to Tech Lead
 
+
+ToC:
+
+*   [Tech Lead](#tech-lead)
+    *   [Why do we need Tech Lead?](#why-do-we-need-tech-lead)
+    *   [What is Tech Lead?](#what-is-tech-lead)
+    *   [How to become a Tech Lead?](#how-to-become-a-tech-lead)
+*   [Tech Lead Model](#tech-lead-model)
+    *   [Tech Lead Responsibility Boundary](#tech-lead-responsibility-boundary)
+    *   [Tech Lead Ability Model](#tech-lead-ability-model)
+*   [Tech Lead in the project lifecycle](#tech-lead-in-the-project-lifecycle)
+    *   [Technical preparation period](#technical-preparation-period)
+    *   [Business Replenishment Period](#business-replenishment-period)
+    *   [Growth optimization period](#growth-optimization-period)
+    *   [Others](#others)
+*   [What does Tech Lead care about?](#what-does-tech-lead-care-about)
+    *   [Programming](#programming)
+        *   [Your coding time should > 30%](#your-coding-time--should--30)
+        *   [Establishing specifications, principles, and patterns](#establishing-specifications-principles-and-patterns)
+        *   [Building Team Culture (Technology)](#building-team-culture-technology)
+        *   [Creating a technology vision](#creating-a-technology-vision)
+    *   [People](#people)
+        *   [Flow: Different challenges in different periods](#flow-different-challenges-in-different-periods)
+        *   [Ensuring team diversity](#ensuring-team-diversity)
+        *   [Creating a learning culture](#creating-a-learning-culture)
+        *   [earn trust](#earn--trust)
+    *   [Process](#process)
+*   [Improve Tech Lead Ability](#improve-tech-lead-ability)
+    *   [Developer](#developer)
+    *   [Architecture](#architecture)
+        *   [Evolutionary Architecture](#evolutionary-architecture)
+        *   [Cross-functional requirements](#cross-functional-requirements)
+    *   [Leadership](#leadership)
+        *   [Incentives](#incentives)
+        *   [Handling conflicts: Negotiating](#handling-conflicts-negotiating)
+        *   [Management risk](#management-risk)
+        *   [Stakeholder Analyses](#stakeholder-analyses)
+        *   [Influence (Influence)](#influence-influence)
+        *   [Join a new Team](#join-a-new-team)
+*   [Tech Lead Toolbox](#tech-lead-toolbox)
+    *   [Path to Production: visualization](#path-to-production-visualization)
+    *   [C4 Model: Architecture Visualization](#c4-model-architecture-visualization)
+    *   [ADR: Architecture Decision Record](#adr-architecture-decision-record)
+    *   [Technical Debt Wall: Visualization of Technical Debt](#technical-debt-wall-visualization-of-technical-debt)
+    *   [Technical Radar: Maintaining technical acumen](#technical-radar-maintaining-technical-acumen)
+    *   [Others](#others-1)
+*   [Summary](#summary)
+    *   [Relevant information](#relevant-information)
+
+
 From January 19, 2019 to January 20, 2019, I attend my company's (ThoughtWorks) training which is about Tech Lead. Thanks for three coachs' working, two senior Tech Leads from ThoughtWorks China and another' senior Tech Lead from ThoughtWorks Australia. After two days of training, I learned a lot. The content can only be entered, and some days will be forgotten. So, First, I wrote this article, to record what I have learned; second, to make some summaries based on my own "experience."
 
 The article is relatively long, long, long and long, and it divided into six parts (PS: Fortunately, Phodit editor (phodit.com), support for title folding :). The agenda:
@@ -62,7 +112,7 @@ Finally, **still by luck**... If you are in your organization, there is always a
 
 However, these are not important. What we have to do is always be ready to  Tech Lead. So, Improve the skills and master the Tech Lead skills.
 
-## Tech Lead What capabilities are needed?
+## Tech Lead Model
 
 In my option, a Tech Lead should have those skills:
 
@@ -105,7 +155,7 @@ However, from a technical point of view, each dimension is far more important th
 
 In this way, I did say a lot of things, but it was too abstract, but it did not seem to have any practical value. We still have a macro understanding of what Tech Lead is doing. Before that, let's go back to the project and take a look at the daily work of Tech Lead on the project.
 
-## Tech Lead in the project life cycle
+## Tech Lead in the project lifecycle
 
 In most organizations, what a Tech Lead does, everyone in the day, still sees it clearly. However, not everyone on the project is in this project from the very beginning. Some were added at the beginning, some were added early, and others were added midway.
 
@@ -121,7 +171,7 @@ When ThoughtWorks start a project, there are two periods: Inception, iteration 0
 
 **Inception**, mainly used to verify the feasibility of technology, business, operations, design, and products. The process requires a Tech Lead as an architect to design a software architecture that meets the needs of the project. According to my understanding, the related process is probably as follows:
 
-[Structure of Architecture Design](https://phodal.github.io/techlead/images/architecture-process.jpg)
+![Structure of Architecture Design](https://phodal.github.io/techlead/images/architecture-process.jpg)
 
 In the process, we need to communicate with the stakeholders involved in the project, discuss with the developers... and finally compromise a framework that can barely meet the needs of all parties. We will also sort out the technical risks associated with the project from relevant discussions.
 
@@ -139,7 +189,7 @@ In addition, during the technical preparation period, we also need to:
 
 This is a rather long period, because it's hard.
 
-In addition, one of the most important things we have to do at this time is: ** Isolate the direct demand dialogue between other/her technicians and business people**.
+In addition, one of the most important things we have to do at this time is: **Isolate the direct demand dialogue between other/her technicians and business people**.
 
 ![Restricted Authorization](https://phodal.github.io/techlead/images/limit-of-authority.png)
 
@@ -170,7 +220,7 @@ This does not mean that several other aspects of her/her are stable. There will 
 
 The last thing I have to mention is: **Affected by many factors**, the development rate of the project will first fall behind the standard...
 
-## Tech Lead What do you care about?
+## What does Tech Lead care about?
 
 As a Tech Lead, we focus on three parts of the project:
 
@@ -287,7 +337,7 @@ Then, we still need to master and how to effectively express:
  - Plan: develop an action plan, how to follow up, how to respond to changes
  - Action: Make a summary, summarize the main points of this communication, give confidence / encouragement
 
-The methodology is very much~.
+The methodology is very much.
 
 ## Improve Tech Lead Ability
 
@@ -368,7 +418,7 @@ Then take the appropriate strategy:
 
 ![TKI Strategy](https://phodal.github.io/techlead/images/tki-stratery.jpg)
 
-Negotiations are divided into **soft negotiation, hard negotiation, and principled negotiation**. For Principled Negotiation**:
+Negotiations are divided into **soft negotiation, hard negotiation, and principled negotiation**. For Principled Negotiation:
 
 1. Maximize overall interests (pursue common goals and interests behind both parties)
 2. Be good at creating an open, fair and just competitive situation (with a win-win goal)
@@ -444,7 +494,7 @@ When we airborne to a new team and become a Tech Lead, it is not an easy task to
 2. Inclusion -> Influence: Understand the relevant technical details, clearly show action, initiative, empathy, lead by example, start with small success
 3. Influence -> Openness: Collect worries, ask/give feedback, talk about gossip, show our weaknesses, admit mistakes, promote meetings/sharing, make a meal together, social activities
 
-These are just some methodologies, first go to ** prove your own value**, and then draw closer to other/her people.
+These are just some methodologies, first go to **prove yourself**, and then draw closer to other/her people.
 
 
 ## Tech Lead Toolbox
@@ -463,7 +513,7 @@ In the process, we focus on the Process, People, Tooling, Artifacts four parts t
 
 In addition to the purpose of the demonstration, we can find the Pain of the project by finding the duration of each process.
 
-** It needs to be continuously updated**.
+**It needs to be continuously updated**.
 
 ### C4 Model: Architecture Visualization
 
@@ -523,4 +573,4 @@ The versatile coordinate axis method allows you to perform related analysis as l
  - Slide "What I want to know when I first become Tech Lead": https://www.slideshare.net/thekua/what-i-wish-i-knew-as-a-first-time-tech- Lead
  - Article "Tech Lead Responsibility Ring": https://www.thekua.com/atwork/2015/06/tech-lead-circles-of-responsibility/
  - Slide "Technical Lead Skills for Developer": https://www.slideshare.net/thekua/tech-lead-skills-for-developers
-  - Slide "Create Lasting Influence": https://www.slideshare.net/sumeet.moghe/create-lasting-influence
+ - Slide "Create Lasting Influence": https://www.slideshare.net/sumeet.moghe/create-lasting-influence
