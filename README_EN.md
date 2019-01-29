@@ -49,11 +49,11 @@ ToC:
     *   [Relevant information](#relevant-information)
 
 
-From January 19, 2019 to January 20, 2019, I attend my company's (ThoughtWorks) training which is about Tech Lead. Thanks for three coachs' working, two senior Tech Leads from ThoughtWorks China and another' senior Tech Lead from ThoughtWorks Australia. After two days of training, I learned a lot. The content can only be entered, and some days will be forgotten.
+From January 19, 2019 to January 20, 2019, I attended my company's (ThoughtWorks) training in Tech Lead conducted by two senior Tech Leads from ThoughtWorks China and another senior Tech Lead from ThoughtWorks Australia. Thanks to the three coachs' hard work, I learned a lot from the short two-day training. The content can only be entered, and some days will be forgotten.
 
-So, First, I wrote this article, to record what I have learned; second, to make some summaries based on my own "experience."
+So, I wrote this article both to record what I have learned and to summarize it based on my own "experience."
 
-The article is relatively long, long, long and long, and it divided into six parts (PS: Fortunately, Phodit editor [https://github.com/phodal/phodit](https://github.com/phodal/phodit), support for title folding :). The agenda:
+The article is relatively long, long, long and long, and it is divided into six parts (PS: Fortunately, the [Phodit editor](https://github.com/phodal/phodit) supports title folding :). The agenda:
 
  - Define Tech Lead 
  - What capabilities does Tech Lead need?
@@ -66,17 +66,17 @@ The article is relatively long, long, long and long, and it divided into six par
 
 ### Why do we need Tech Lead?
 
-Perhaps, you noticed: We are talking about Lead, not Leader. Because when we say Leader, it is often referred to as the leader—a person who has a formal leadership position and shoulders the responsibility of leading the team and organizing the organization. And when we say Lead, we are talking about someone who leads us forward. This person can be a leader or others person. Therefore, **Tech Lead is a role, not a real position**. The significance of this role is to others people forward. The definition of the two is shown in below:
+Perhaps, you noticed: We are talking about Lead, not Leader. Because when we say Leader, it often refers to the person who has an official leadership position and shoulders the responsibility of leading the team and organizing the organization. And when we say Lead, we are talking about someone who leads us forward. This person can be a leader or another person. Therefore, **Tech Lead is a role, not a real position**. The significance of this role is to lead other people forward. The definitions of the two are shown below:
 
 ![Leader vs Boss](https://phodal.github.io/techlead/images/leader-vs-boss.jpg)
 
-Then think about it, who are you working with in your team? When you are doing related technical work, who are you more willing to listen to, is your leader, or?
+Then think about it, who are you working with in your team? When you are doing related technical work, who are you more willing to listen to, is it your leader, or?
 
-As a developers, we hope that someone will work with us who is better than us. We can learn something useful from him/her. As a technician, we serve people who are better than themselves. In a same feature, we have to implement it for a day, and he/she may only need one hour - efficiency is higher and quality is better. Such a person is equivalent to Tech Lead in the project, he/she is not a true leader. But technically, we listen to him/her. With his/her help, we can improve our skills and build better applications.
+As a developer, we hope that someone who will work with us is better than us. We can learn something useful from him/her. As a technician, we serve people who are better than themselves. Given the same feature that takes us a day to implement, he/she might only need one hour - efficiency is higher and quality is better. Such a person is equivalent to Tech Lead in the project. He/she might not a true leader, but technically, we listen to him/her. With his/her help, we can improve our skills and build better applications.
 
-If you are in a hierarchy of pyramidal relationships, recall that who is your manager often praises people with good skills? In a sense, he/she is equivalent to the project's Tech Lead. Your manager will ask him/her about some technical issues, and relevant conclusions will often be used on your project.
+If you have ever been in a hierarchy of pyramidal relationships, try to recall the person in your project or team who your manager often praises with good skills? In a sense, that person is equivalent to the project's Tech Lead. Your manager will ask him/her about some technical issues, and the results of the discussions will often be used in your project.
 
-For Tech Lead, **the most important thing is lead not management**. Then the question is, what is Tech Lead?
+For Tech Lead, **the most important thing is leading not management**. Then the question is, what is Tech Lead?
 
 ### What is Tech Lead?
 
